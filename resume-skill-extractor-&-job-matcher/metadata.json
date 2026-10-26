@@ -1,0 +1,6 @@
+{
+  "name": "Resume Skill Extractor & Job Matcher",
+  "description": "Secure, maintainable career analysis application for candidate skill extraction, profile strength scoring, job matching, and resume improvement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
